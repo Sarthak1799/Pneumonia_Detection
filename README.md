@@ -4,3 +4,4 @@ A Deep Learning mini project. Deep Learning model built using TensorFlow API whi
 5,863 X-ray images were taken for the purpose of training the model.
 The dataset can be found on https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
+The Notebook can alternatively be found here https://www.kaggle.com/sarthak1799/pneumonia-detection
